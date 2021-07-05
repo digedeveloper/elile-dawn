@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Dawn",
+    "theme_name": "elile",
     "theme_version": "1.0.0",
-    "theme_author": "Shopify",
+    "theme_author": "digepreneurs",
     "theme_documentation_url": "https://shopify.dev/themes/tools/dawn",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_support_url": "https://tribe.digepreneurs.com/"
   },
   {
     "name": "t:settings_schema.colors.name",
